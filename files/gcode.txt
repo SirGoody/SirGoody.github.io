@@ -1,0 +1,58 @@
+N1; Part name: Lathe Project
+N2; Author: Chase Goodman
+N3; Filename: ChaseGoodmanLathe.nc
+N4; Class: TDPT 280
+N5; Date: 09/29/2016
+N6; Material: Hardwood Dowel
+N7; Dia. "1"
+N8; Length “8”
+N9; Amount right of collet: "4.0"
+N10; Starting point
+N11;Tool 1 - Right-to-left (initial)
+N12; Est. Runtime - M/S
+N13G90; Absolute Dimensioning
+N14M3S2000G4F1; Spindle on CW at 2000 RPM
+N15G0X.4Z4.01; Start
+N16G1Z2F1; Linear Interpolation
+N17G0X.5
+N18G0X.5Z4.01
+N19G0X.3
+N20G1Z2F1
+N21G0X.4
+N22G0Z4.01
+N23G0X.25
+N24G1Z2
+N25G0X.4
+N26G1Z1.5
+N27G0Z2
+N28G0X.3
+N29G1Z1.75
+N30G0Z2
+N31G0X.25
+N32G1X.5Z1; Cutting across
+N33G0X.5Z4.0
+N34G0X0; Getting ready to do Circular Interpolation
+N35G2X.25Z3.75 I0K3.75; Circular Interpolation
+N36G0X1.5
+N37M6T3; switch to the cut off tool
+N38G0Z3.25
+N39G1X.175
+N40G0X.3
+N41G0Z3
+N42G1X.10
+N43G0X.3
+N44G0Z2.5
+N45G1X.15
+N46G0X.6
+N47G0Z1
+N48G1X.25
+N49G0X.6
+N50G0Z.65
+N51G1X.2
+N52G0X.6
+N53G0Z.5
+N54G1X0
+N55G0X1.5
+N56G0Z4.5
+N57M6T1; Switch back to tool 1
+N58M5; Spindle off
