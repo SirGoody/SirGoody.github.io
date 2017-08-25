@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612ac175-ac77-45cd-a37a-c601c2a78af1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/NBA_Database_Application.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/NBA_Database_SQL_Line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/BabyDenverGiraffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/ColoradoMountains.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/ColorfulBird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/FianceeMountains.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/KeystoneNationalPark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/Lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/TwoLionsOnRock.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myPictures/WhiteWolf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/SirGoody.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.html" afterPath="$PROJECT_DIR$/resume.html" />
-    </list>
+    <list default="true" id="612ac175-ac77-45cd-a37a-c601c2a78af1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +237,7 @@
       <updated>1503494019940</updated>
       <workItem from="1503494021035" duration="1248000" />
       <workItem from="1503584110122" duration="136000" />
-      <workItem from="1503666013912" duration="1545000" />
+      <workItem from="1503666013912" duration="1597000" />
     </task>
     <task id="LOCAL-00001" summary="Change the twitch username and link in the gaming.html page.">
       <created>1503494164449</created>
@@ -286,7 +271,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2929000" />
+    <option name="totallyTimeSpent" value="2981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
